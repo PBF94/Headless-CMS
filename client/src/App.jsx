@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.scss";
 
 const App = () => {
     return (
@@ -7,3 +8,5 @@ const App = () => {
         </React.Fragment>
     );
 };
+
+export default App;
